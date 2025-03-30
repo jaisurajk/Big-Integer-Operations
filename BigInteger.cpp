@@ -1,7 +1,3 @@
-// Name: Jaisuraj Kaleeswaran
-// CruzID: jkaleesw
-// Assignment Name: pa6
-
 #include "BigInteger.h"
 #include "List.h"
 #include <cctype>
