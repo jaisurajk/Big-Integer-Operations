@@ -1,4 +1,4 @@
-### This is a C++ program that an perform addition, subtraction, and multiplication on numbers even up to 32 digits in length.
+### This C++ program performs addition, subtraction, and multiplication on numbers even up to 32 digits in length.
 ### Here are the files I made and their functionalities:
 
 ## List.h:
