@@ -1,7 +1,3 @@
-// Name: Jaisuraj Kaleeswaran
-// CruzID: jkaleesw
-// Assignment Name: pa6
-
 #include<iostream>
 #include<string>
 #include<stdexcept>
