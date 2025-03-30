@@ -1,15 +1,3 @@
-#------------------------------------------------------------------------------
-#  Makefile for CSE 101 Programming Assignment 6
-#
-#  make                     makes Arithmetic
-#  make BigIntegerClient    makes BigIntegerClient
-#  make ListClient          makes ListClient
-#  make clean               removes all binaries
-#  make ArithmeticCheck     runs Arithmetic in valgrind on in4 junk4
-#  make BigIntegerCheck     runs BigIntegerTest in valgrind
-#  make ListCheck           runs ListTest in valgrind
-#------------------------------------------------------------------------------
-
 MAIN           = Arithmetic
 ADT1           = BigInteger
 ADT2           = List
