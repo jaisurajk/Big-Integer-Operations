@@ -1,6 +1,5 @@
-### Name: Jaisuraj Kaleeswaran
-### CruzID: jkaleesw
-### Assignment Name: pa6
+### This is a C++ program that an perform addition, subtraction, and multiplication on numbers even up to 32 digits in length.
+### Here are the files I made and their functionalities:
 
 ## List.h:
     Initializes all functions used in List.c. The parameters and return values in List.h and List.c should match to avoid errors.
